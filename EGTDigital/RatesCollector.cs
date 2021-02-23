@@ -23,7 +23,7 @@ namespace EGTDigital
             while (true)
             {
                 await UpdateRates(url);
-                Thread.Sleep(TimeSpan.FromSeconds(30));
+                Thread.Sleep(TimeSpan.FromSeconds(interval));
             }
         }
 
