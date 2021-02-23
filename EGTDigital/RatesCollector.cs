@@ -46,9 +46,13 @@ namespace EGTDigital
                             Date = currencyDataJson.Date,
                             Rates = new List<CurrencyRate>()
                         };
-                        
-                        ConvertRates(currencyDataJson.Rates, currencyData.Rates, currencyDataJson.Timestamp);
-                        AddCurrencyDataToDB(currencyData);
+
+                        //In the current version we are only interested in the normal flow
+                        if (currencyData.Status)
+                        {
+                            ConvertRates(currencyDataJson.Rates, currencyData.Rates, currencyDataJson.Timestamp);
+                            AddCurrencyDataToDB(currencyData);
+                        }
                     }
                 }
             }

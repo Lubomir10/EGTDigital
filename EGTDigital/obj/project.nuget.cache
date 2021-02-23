@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pe/7LqnwMU1eFDzjgjYnv/fVAnG9tZZEX523PVroD48JM1Mps+oHPnu0i3U8Y1G/eUeIf420LuCKeKYfJHRq7w==",
+  "dgSpecHash": "rTP8GzEOMUtsXSm7OPBdMasVVWT4wb/af1UmiM/zFhCOCyPAen7N/Oq3zVsHvrseRszFjHpfTp/zdtnuSIBWng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\Desktop\\EGTDigital\\EGTDigital\\EGTDigital.csproj",
+  "projectFilePath": "C:\\Users\\dimit\\Desktop\\EGTDigital_repo\\EGTDigital\\EGTDigital\\EGTDigital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimit\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\Desktop\\EGTDigital\\EGTDigital\\EGTDigital.csproj": {}
+    "C:\\Users\\dimit\\Desktop\\EGTDigital_repo\\EGTDigital\\EGTDigital\\EGTDigital.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\Desktop\\EGTDigital\\EGTDigital\\EGTDigital.csproj": {
+    "C:\\Users\\dimit\\Desktop\\EGTDigital_repo\\EGTDigital\\EGTDigital\\EGTDigital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\EGTDigital\\EGTDigital\\EGTDigital.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\EGTDigital_repo\\EGTDigital\\EGTDigital\\EGTDigital.csproj",
         "projectName": "EGTDigital",
-        "projectPath": "C:\\Users\\dimit\\Desktop\\EGTDigital\\EGTDigital\\EGTDigital.csproj",
+        "projectPath": "C:\\Users\\dimit\\Desktop\\EGTDigital_repo\\EGTDigital\\EGTDigital\\EGTDigital.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\Desktop\\EGTDigital\\EGTDigital\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\Desktop\\EGTDigital_repo\\EGTDigital\\EGTDigital\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
